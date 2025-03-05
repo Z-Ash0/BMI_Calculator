@@ -15,13 +15,22 @@ This screen allows users to enter their weight and height.
 
 ### Screen 2: Result Screen 📈
 This screen displays the calculated BMI value along with a description of the result.  
-![Screenshot 2025-03-05 095844](https://github.com/user-attachments/assets/247dee59-bea5-405d-b743-92d3e79390ff)
- 
-![Screenshot 2025-03-05 095726](https://github.com/user-attachments/assets/979592c3-81b0-4b59-9864-14bd6a379158)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/247dee59-bea5-405d-b743-92d3e79390ff" alt="Screenshot 1" style="max-width: 100%; height: auto;">
+</div>
 
-![Screenshot 2025-03-05 095757](https://github.com/user-attachments/assets/da0bd76b-b201-477d-aec6-7a3d5592106d)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/979592c3-81b0-4b59-9864-14bd6a379158" alt="Screenshot 2" style="max-width: 100%; height: auto;">
+</div>
 
-![Screenshot 2025-03-05 095815](https://github.com/user-attachments/assets/f74045ba-8fdb-4e4f-be47-371b46be5b23)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/da0bd76b-b201-477d-aec6-7a3d5592106d" alt="Screenshot 3" style="max-width: 100%; height: auto;">
+</div>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/f74045ba-8fdb-4e4f-be47-371b46be5b23" alt="Screenshot 4" style="max-width: 100%; height: auto;">
+</div>
+
  
 
 ---
