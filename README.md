@@ -10,25 +10,20 @@ Here are the two main screens of the application:
 
 ### Screen 1: Input Screen 📝
 This screen allows users to enter their weight and height.  
-![Screenshot 2025-03-05 095708](https://github.com/user-attachments/assets/fe2772f2-38da-47b8-ab12-8826d8d0c72f)
-
+<div align="center">
+<image src ="https://github.com/user-attachments/assets/fe2772f2-38da-47b8-ab12-8826d8d0c72f" alt="Screenshot input" style="max-width: 100%; height: auto;">
+</div>
 
 ### Screen 2: Result Screen 📈
 This screen displays the calculated BMI value along with a description of the result.  
 <div align="center">
-<img src="https://github.com/user-attachments/assets/247dee59-bea5-405d-b743-92d3e79390ff" alt="Screenshot 1" style="max-width: 100%; height: auto;">
+<img src="https://github.com/user-attachments/assets/247dee59-bea5-405d-b743-92d3e79390ff" alt="Screenshot 1" style="max-width: 50%; height: auto;">
+<img src="https://github.com/user-attachments/assets/979592c3-81b0-4b59-9864-14bd6a379158" alt="Screenshot 2" style="max-width: 50%; height: auto;">
 </div>
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/979592c3-81b0-4b59-9864-14bd6a379158" alt="Screenshot 2" style="max-width: 100%; height: auto;">
-</div>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/da0bd76b-b201-477d-aec6-7a3d5592106d" alt="Screenshot 3" style="max-width: 100%; height: auto;">
-</div>
-
-<div align="center">
-<img src="https://github.com/user-attachments/assets/f74045ba-8fdb-4e4f-be47-371b46be5b23" alt="Screenshot 4" style="max-width: 100%; height: auto;">
+<img src="https://github.com/user-attachments/assets/da0bd76b-b201-477d-aec6-7a3d5592106d" alt="Screenshot 3" style="max-width: 50%; height: auto;">
+<img src="https://github.com/user-attachments/assets/f74045ba-8fdb-4e4f-be47-371b46be5b23" alt="Screenshot 4" style="max-width: 50%; height: auto;">
 </div>
 
  
