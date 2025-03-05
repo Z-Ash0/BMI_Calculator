@@ -67,7 +67,7 @@ class ResultScreen extends StatelessWidget {
                       'Your Result',
                       style: TextStyle(
                         color: AppColors.whiteColor,
-                        fontSize: 20.sp,
+                        fontSize: 16.sp,
                         fontWeight: FontWeight.bold,
                       ),
                     ),

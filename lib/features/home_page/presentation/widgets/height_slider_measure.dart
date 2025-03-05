@@ -34,17 +34,17 @@ class _HeightSliderMeasureState extends State<HeightSliderMeasure> {
         children: [
           Text(
             AppStrings.height,
-            style: TextStyle(color: AppColors.textColor, fontSize: 10.sp),
+            style: TextStyle(color: AppColors.textColor, fontSize: 8.sp),
           ),
           RichText(
             text: TextSpan(children: [
               TextSpan(
                 text: '$height',
-                style: TextStyle(color: AppColors.whiteColor, fontSize: 18.sp),
+                style: TextStyle(color: AppColors.whiteColor, fontSize: 16.sp),
               ),
               TextSpan(
                 text: AppStrings.cm,
-                style: TextStyle(color: AppColors.whiteColor, fontSize: 8.sp),
+                style: TextStyle(color: AppColors.whiteColor, fontSize: 6.sp),
               ),
             ]),
           ),

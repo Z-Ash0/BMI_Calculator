@@ -36,14 +36,14 @@ class _AgeWeightCalculationState extends State<AgeWeightCalculation> {
                   widget.title,
                   style: TextStyle(
                     color: AppColors.textColor,
-                    fontSize: 10.sp,
+                    fontSize: 8.sp,
                   ),
                 ),
                 Text(
                   '${widget.num}',
                   style: TextStyle(
                     color: AppColors.whiteColor,
-                    fontSize: 18.sp,
+                    fontSize: 16.sp,
                   ),
                 ),
                 Row(
@@ -56,7 +56,7 @@ class _AgeWeightCalculationState extends State<AgeWeightCalculation> {
                       ),
                       child: IconButton(
                         onPressed: widget.subFunction,
-                        iconSize: 16.h,
+                        iconSize: 14.h,
                         icon: const Icon(
                           Icons.remove,
                           color: Colors.white,
@@ -70,7 +70,7 @@ class _AgeWeightCalculationState extends State<AgeWeightCalculation> {
                       ),
                       child: IconButton(
                         onPressed: widget.addFunction,
-                        iconSize: 16.h,
+                        iconSize: 14.h,
                         icon: const Icon(
                           Icons.add,
                           color: Colors.white,

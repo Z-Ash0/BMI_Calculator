@@ -35,7 +35,7 @@ class BmiStatusSection extends StatelessWidget {
           Text(
             result.toStringAsFixed(2),
             style: TextStyle(
-                fontSize: 48.sp,
+                fontSize: 32.sp,
                 color: AppColors.whiteColor,
                 fontWeight: FontWeight.bold),
           ),
@@ -45,7 +45,7 @@ class BmiStatusSection extends StatelessWidget {
               message,
               style: TextStyle(
                 color: AppColors.whiteColor,
-                fontSize: 10.sp,
+                fontSize: 8.sp,
               ),
               textAlign: TextAlign.center,
             ),

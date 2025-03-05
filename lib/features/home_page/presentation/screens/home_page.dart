@@ -26,7 +26,7 @@ class _HomePageState extends State<HomePage> {
       appBar: AppBar(
         title: Text(
           AppStrings.bmiCalculator,
-          style: TextStyle(color: AppColors.whiteColor, fontSize: 12.sp),
+          style: TextStyle(color: AppColors.whiteColor, fontSize: 10.sp),
         ),
         backgroundColor: AppColors.primaryColor,
         centerTitle: true,
@@ -66,8 +66,6 @@ class _HomePageState extends State<HomePage> {
               onPressed: () {
                 context.navigateWithName(resultScreen,
                     arguments: bmi.calculateBmi());
-                print(bmi.height);
-                print(bmi.weight);
               },
             ),
           ),
