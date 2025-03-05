@@ -13,6 +13,7 @@ This screen allows users to enter their weight and height.
 <div align="center">
 <image src ="https://github.com/user-attachments/assets/fe2772f2-38da-47b8-ab12-8826d8d0c72f" alt="Screenshot input" style="max-width: 100%; height: auto;">
 </div>
+<br>
 
 ### Screen 2: Result Screen 📈
 This screen displays the calculated BMI value along with a description of the result.  
@@ -27,7 +28,7 @@ This screen displays the calculated BMI value along with a description of the re
 </div>
 
  
-
+<br>
 ---
 
 ## 🚀 Features
